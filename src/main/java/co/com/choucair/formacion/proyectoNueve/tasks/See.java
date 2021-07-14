@@ -1,5 +1,6 @@
 package co.com.choucair.formacion.proyectoNueve.tasks;
 
+import co.com.choucair.formacion.proyectoNueve.interaction.Esperar;
 import net.serenitybdd.core.Serenity;
 import net.serenitybdd.screenplay.Actor;
 
@@ -26,18 +27,25 @@ public class See implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
+
         List<WebElement> allBanks = driver.findElements(By.xpath("//span[@class='semibold'][contains(.,'')]"));
+        List<WebElement> allLinks = driver.findElements(By.xpath("//a[contains(.,'www')]"));
         String auxiliar;
         String Bancos;
+        String auxiliar2;
         for (int i=0; i < 14; i++){
          try{
              auxiliar = allBanks.get(i).getText();
-            boolean isNumeric = StringUtils.isNumeric(auxiliar);  //Compruebo si una cadena es un numero
+             boolean isNumeric = StringUtils.isNumeric(auxiliar);  //Compruebo si una cadena es un numero
             if(isNumeric == false){
                 Bancos = auxiliar;
                 System.out.println(Bancos);
+             }
+             Esperar.esperar(3000);
+            for(int j=0 ; j<10; j++) {
+                auxiliar2 = allLinks.get(j).getText();
+                System.out.println(auxiliar2);
             }
-
          }catch (Exception e){
              LOGGER.info("Error text property was not found");
             }
