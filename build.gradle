@@ -1,0 +1,67 @@
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+buildscript {
+    repositories {
+        mavenLocal()
+        jcenter()
+        maven{
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath("net.serenity-bdd:serenity-gradle-plugin:2.0.84")
+        classpath("org.gradle:test-retry-gradle-plugin:1.2.1")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'net.serenity-bdd.aggregator'
+apply plugin: 'org.gradle.test-retry'
+
+test {
+    systemProperty "tags", System.getProperty("tags")
+    include '*/runners/*'
+    debug false
+    retry {
+        maxRetries = 3
+        maxFailures = 20
+        failOnPassedAfterRetry = false
+    }
+    maxParallelForks = 4//Runtime.runtime.availableProcessors()
+}
+
+dependencies {
+    compile group: 'net.serenity-bdd', name: 'serenity-core', version: '2.0.84'
+    compile ("net.serenity-bdd:serenity-screenplay:2.0.84") {
+        exclude group: "org.seleniumhq.selenium", module:"htmlunit-driver"
+    }
+    compile ("net.serenity-bdd:serenity-screenplay-webdriver:2.0.84") {
+        exclude group: "org.seleniumhq.selenium", module:"htmlunit-driver"
+    }
+    compile("org.seleniumhq.selenium:htmlunit-driver:2.35.1") {
+        exclude group: "org.seleniumhq.selenium"
+        exclude group: "org.apache.commons", module:"commons-lang3"
+    }
+
+    compile group: 'net.serenity-bdd', name: 'serenity-cucumber', version: '1.9.37'
+    compile "junit:junit:4.12"
+
+    testCompile group: 'org.slf4j', name: 'slf4j-simple', version: '1.7.25'
+    //testCompile ("ch.qos.logback:logback-classic:1.0.13")
+    testCompile "org.assertj:assertj-core:3.11.1"
+    compile group: 'wsdl4j', name: 'wsdl4j', version: '1.6.2'
+    implementation group: 'com.codoid.products', name: 'fillo', version: '1.18'
+    // https://mvnrepository.com/artifact/net.serenity-bdd/serenity-screenplay
+    implementation group: 'net.serenity-bdd', name: 'serenity-screenplay', version: '2.0.84'
+
+}
+gradle.startParameter.continueOnFailure = true
