@@ -2,11 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d335a875-768d-42ed-a631-34838559119f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/01b0070762f8e1d0ad22b740029b8f74c44f5f9ea90c75578ca43302f832027b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/03ea3c77e68b1f87b1e8109ffc551471cba7c4c4405b2f2847afb2106653ba36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/0bcab255116b9d34a3b31d374b7aa85a2ddd4e1ee29bff2fa804bc800a3cdd89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/124c1d6b05a3fe58e3b62eff3f6debd6109cc4b23fa132a9a641dc2ddf5c6a94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/1297d6908e0d2f9ad1e048de06b80033e4be19cf7d26b9977e616e9a0f94b857.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/1ee7774eba8c91203a28dbbf55aef9864bc1cc2ef43892d52d8c3e47afb17382.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/21d77240afa2e2407f77ff4be0c74b59b0e2af8a75e29dd4766311e9f4c89dbc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/24d6e2fe7a3bbb997b484a877a0729af6e47a3b0b524087f88616a893813e3d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/3a8e56eba42bc409180bfc806fbb184e611c2665b436418154b5455f3d4dc9ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/3db0f94ed4500a28f10de37c498701947c0ab255772475e61c57ae7dce20ad2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/4c8b451144dbde8e6b7a188da1d234634befe418982a93e9ee92fb33fd4f1f28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/5eb391255a231a4a769d40f8a9cff73e36800bb0678cca3322a709a3119cd4ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/5f46fcae4ec2c286282e840f184126295c61d6f08015f7019e13ade2e4624a68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/6176bca98c7c0cf60acefd54a4967290404daf9eb082b1cc0b6f38aec218ffe2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/6cedd6059aa9508b21ca659c407d5f5adac991a10312f9965e86d0f930d8865d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/6e5f86005dafa8f9fa8f5cdb07800fe69f08aa2343db59bcbbf7ab2443035977.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/710a012e4cf9b5f8fea378045912972d54b840ec5313fa8ca80f77e16d6506bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/71a1a49707772b28a54bf605d573248ec052b81216925f031cb98a949bccb362.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/74b0f9a91dd75e04bfa94e2cce457e81a1d77c06630db6ce24d1738d5ee99273.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/770294547190b39acbf498072310d98f538bcc698b0c97cebbbd846e21e1304a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/7a124694372490ecc84924351c0506378c8f05d4fb06a071d50db55033a67386.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/7c9d260ad20a577efc3841fd3d89280d5da30fe62d488aa6dabc2b91b3e0e8a4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/83602e24ab0758245f65c87a57a7ebb038db7ad17535036255a9511ea87e8a1e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/8b8320ed0c78dd0466b3c273a67eea7b78a7c22c02ba453266affc5e392da12c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/bd24d212a61b70fea712f08b59dbaa02d7f5bdf3d90851ba68727e8bb86d6183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/bdc0a0d90ed0ed8c528afb4d1739b55df931b90310cb0d6b8eb96929a5544c3c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/ca4763b0fba0fc4634c6b80e3f9dc4d3aa272ab81e312636d2701deba869f339.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/cda1bbedf77fecaafa1b1da1ca3a35f20f483c4ebbb1e75371a016351dcf50a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/f13e3154b5999fcacc5546ac852c9a1f7edee9792384dfeb682281e1b016a719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/f36895aa615e57e79d559379de58303f226f81b6117d93a2411fad33f1fe48eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource2822371910043912309.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource3407780257298965110.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource6685761358353434954.html.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/formacion/proyectoNueve/tasks/See.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/co/com/choucair/formacion/proyectoNueve/tasks/See.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/tasks/See.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/tasks/See.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/9739240264bf1be00ebd86137951ee0425753f0f87015e7222de2e0a05a388bf.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9739240264bf1be00ebd86137951ee0425753f0f87015e7222de2e0a05a388bf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/9739240264bf1be00ebd86137951ee0425753f0f87015e7222de2e0a05a388bf.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/9739240264bf1be00ebd86137951ee0425753f0f87015e7222de2e0a05a388bf.json" afterDir="false" />
@@ -50,13 +93,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1v5qpNyMoKTkSwjxucmLVNacOZn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
@@ -177,6 +223,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-953" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1626100453275">
       <screen x="-1366" y="0" width="1366" height="728" />
@@ -190,10 +239,10 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-922" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626098849930" />
-    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1626195348550">
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1626361568325">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626195348550" />
+    <state x="-878" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626361568325" />
     <state x="-968" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1626121735548">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
@@ -210,22 +259,22 @@
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
     <state x="-903" y="118" key="FileChooserDialogImpl/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626273319526" />
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1626281312917">
+    <state width="1323" height="245" key="GridCell.Tab.0.bottom" timestamp="1626368064574">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626281312917" />
-    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1626281312916">
+    <state width="1323" height="245" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626368064574" />
+    <state width="1323" height="245" key="GridCell.Tab.0.center" timestamp="1626368064573">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626281312916" />
-    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1626281312916">
+    <state width="1323" height="245" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626368064573" />
+    <state width="1323" height="245" key="GridCell.Tab.0.left" timestamp="1626368064573">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626281312916" />
-    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1626281312917">
+    <state width="1323" height="245" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626368064573" />
+    <state width="1323" height="245" key="GridCell.Tab.0.right" timestamp="1626368064574">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626281312917" />
+    <state width="1323" height="245" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1626368064574" />
     <state width="1323" height="121" key="GridCell.Tab.1.bottom" timestamp="1626230669714">
       <screen x="-1366" y="0" width="1366" height="728" />
     </state>
