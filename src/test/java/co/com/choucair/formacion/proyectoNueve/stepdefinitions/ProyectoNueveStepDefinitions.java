@@ -9,7 +9,6 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 
-import java.sql.SQLOutput;
 import java.util.List;
 
 import static net.serenitybdd.screenplay.actors.OnStage.*;

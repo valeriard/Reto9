@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Make a query for banks in the Yellow Pages Web and verify the list of the first 10 banks" skipped="0" tests="1" time="20.05" timestamp="2021-07-15 11:54:26"><testcase name="Banks"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Make a query for banks in the Yellow Pages Web and verify the list of the first 10 banks" skipped="0" tests="1" time="28.78" timestamp="2021-07-16 01:40:08"><testcase name="Banks"/></testsuite>

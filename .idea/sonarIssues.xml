@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -28,6 +33,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/AbrirNuevaPestaña.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/Comprobar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/CrearExcel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/Esperar.java">
           <value>
             <set />
@@ -38,7 +58,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/Limpiarcadenas.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/ListDinamic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/interaction/limpiarcadenas.java">
           <value>
             <set />
           </value>
@@ -49,6 +79,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/model/SearchKeyWord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/tasks/OpenUp.java">
           <value>
             <set />
           </value>
@@ -64,6 +99,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/userinterface/PageWebYellow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/co/com/choucair/formacion/proyectoNueve/userinterface/PaginaBancos.java">
           <value>
             <set />
           </value>

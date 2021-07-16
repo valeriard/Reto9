@@ -1,7 +1,8 @@
 package co.com.choucair.formacion.proyectoNueve.tasks;
 
 
-import co.com.choucair.formacion.proyectoNueve.interaction.Excel;
+import co.com.choucair.formacion.proyectoNueve.interaction.CrearExcel;
+import co.com.choucair.formacion.proyectoNueve.interaction.Esperar;
 import net.serenitybdd.core.Serenity;
 
 import net.serenitybdd.screenplay.Actor;
@@ -9,6 +10,8 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 
+import net.serenitybdd.screenplay.actions.Click;
+import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.lang3.StringUtils;
 
 import org.openqa.selenium.By;
@@ -16,12 +19,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 
+import java.util.Arrays;
 import java.util.List;
 
 import java.util.logging.Logger;
 
 
 public class See implements Task {
+
     private static WebDriver driver = Serenity.getWebdriverManager().getCurrentDriver();
     private static final Logger LOGGER = Logger.getLogger(See.class.getName());
 
@@ -31,37 +36,40 @@ public class See implements Task {
 
     @Override
     public <T extends Actor> void performAs(T actor) {
-
+        String listabancos[] = new String[15];
+        String listalinks[] = new String[15];
+        String basura[] = new String[15];
+        String bancos[] = new String[15];
         List<WebElement> allBanks = driver.findElements(By.xpath("//span[@class='semibold'][contains(.,'')]"));
         List<WebElement> allLinks = driver.findElements(By.xpath("//a[contains(.,'www')]"));
-
-        String auxiliar;
-        String Bancos = new String();
-        String auxiliar2 = new String();
-
-        for (int i = 0; i < 14; i++) {
-            try {
-                auxiliar = allBanks.get(i).getText();
-                boolean isNumeric = StringUtils.isNumeric(auxiliar);  //Compruebo si una cadena es un numero
-                if (isNumeric == false) {
-                    Bancos = auxiliar;
-                    System.out.println(Bancos);
-                }
-
-            } catch (Exception e) {
-                LOGGER.info("Error text property was not found");
+        for (int i = 0; i <= 13; i++) {
+            listabancos[i] = allBanks.get(i).getText();
+            boolean isNumeric = StringUtils.isNumeric(listabancos[i]);  //Compruebo si una cadena es un numero
+            if (isNumeric == true) {
+                basura[i] = listabancos[i];
+            } else {
+                bancos[i] = listabancos[i];
             }
         }
-        for (int j = 0; j < 10; j++) {
-            try {
-                auxiliar2 = allLinks.get(j).getText();
-                System.out.println(auxiliar2);
-            } catch (Exception e) {
-                LOGGER.info("Error text property was not found");
+        String aux="";
+        for (int j = 0; j < bancos.length - 1; j++) {
+            for(int k=0; k< bancos.length-1;k++){
+            if (bancos[k] == null) {
+                aux=bancos[k];
+                bancos[k] = bancos[k + 1];
+                bancos[k+1]=aux;
             }
+            }
+        }System.out.println(Arrays.toString(bancos));
+        for (int l = 0; l < 10; l++) {
+            listalinks[l] = allLinks.get(l).getText();
+            }System.out.println(Arrays.toString(listalinks));
+        int tamano= bancos.length;
+        CrearExcel.CrearExcel(bancos,listalinks,tamano);
         }
-        Excel.excel(Bancos);
-    }
+
+
+
 
 }
 
