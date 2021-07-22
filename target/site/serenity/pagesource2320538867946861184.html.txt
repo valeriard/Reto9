@@ -1,0 +1,2754 @@
+<html lang="en" data-locale="en" data-env="production" data-wcmmode="publish" data-enable-c2c="false" data-page="global-site" data-site="scotiabank" class="geolocation no-touchevents cookies bns windows chrome chrome-91 no-touch"><head class="at-element-marker"><script type="text/javascript" async="async" src="https://somniture.scotiabank.com/b/ss/scotiabankprod,scotiabankglobal/10/JS-2.22.0-LBSQ/s47578771336079?AQB=1&amp;ndh=1&amp;pf=1&amp;callback=s_c_il[1].doPostbacks&amp;et=1&amp;t=22%2F6%2F2021%209%3A12%3A49%204%20300&amp;d.&amp;nsid=0&amp;jsonv=1&amp;.d&amp;sdid=77355DDF0956C36D-18F38D562977D593&amp;mid=80268547499273340640272177094812495062&amp;aamlh=4&amp;ce=UTF-8&amp;pageName=Scotiabank%20Global%20Site&amp;g=https%3A%2F%2Fwww.scotiabank.com%2Fglobal%2Fen%2Fglobal-site.html&amp;r=https%3A%2F%2Fwww.paginasamarillas.com.co%2Fmedellin%2Fservicios%2Fbancos&amp;cc=CAD&amp;ch=Scotiabank%20Global%20Site&amp;aamb=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&amp;c5=D%3Dv5&amp;v5=non-customer&amp;c11=D%3Dv19&amp;c19=D%3Dg&amp;v19=en&amp;v20=D%3Dc12&amp;c25=Scotiabank%20Global%20Site&amp;c50=D%3Dv50&amp;v50=SB&amp;c51=JS-2.22.0-D-Launch-2021-07-15T22%3A43%3A22Z-production&amp;c67=AEM&amp;v67=D%3Dc67&amp;c70=D%3Dv70&amp;v70=desktop&amp;c74=80268547499273340640272177094812495062&amp;v76=80268547499273340640272177094812495062&amp;s=1366x768&amp;c=24&amp;j=1.6&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=613&amp;mcorgid=0AAF22CE52827A080A490D4D%40AdobeOrg&amp;AQE=1"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Scotiabank Global Site</title>
+    
+    <meta name="google-site-verification" content="TmwKjodUQLDk3bHrN6sS2IFZJFEVaaxOKEg62JwB9g8">
+    <meta name="robots" content="index,follow">
+    <meta name="theme-color" content="#ED0722">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+   
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Open Graph -->
+    
+    
+    <meta property="og:title" content="Scotiabank Global Site">
+    <meta property="og:site_name">
+    <meta property="og:description">
+    <meta property="og:url" content="https://www.scotiabank.com/content/scotiabank/global/en/global-site.html">
+    
+
+    <meta name="twitter:card">
+    <meta name="twitter:site">
+    <meta name="twitter:title" content="Scotiabank Global Site">
+    <meta name="twitter:description">
+    <meta name="twitter:image:alt"> 
+    <meta name="twitter:image:width">
+    <meta name="twitter:image:height">
+    <meta name="twitter:image">
+    
+
+    <!-- Load Cloud Services -->
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=DC-9051783&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    //prehiding snippet for Adobe Target with asynchronous Launch deployment
+    (function(g,b,d,f){(function(a,c,d){if(a){var e=b.createElement("style");e.id=c;e.innerHTML=d;a.appendChild(e)}})(b.getElementsByTagName("head")[0],"at-body-style",d);setTimeout(function(){var a=b.getElementsByTagName("head")[0];if(a){var c=b.getElementById("at-body-style");c&&a.removeChild(c)}},f)})(window,document,"body {opacity: 0 !important}",3E3);
+</script>
+<script src="//assets.adobedtm.com/27c34d6e7144/848aa93f9a82/launch-e8eb4aa8f29f.min.js" async=""></script>
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.vendor.min.302834738a1d8dd1c3b5b3ba5b36989c.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.bundle.min.ac7f4e430e96e075472154a5d30001cc.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.back-to-top-btn.min.d3438efebecfaee2b46c3cd56d0d97cb.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.template.min.c56a94314c24cce6d4d6db7ff158fb60.css" type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    <link rel="alternate" hreflang="en-ca" href="https://www.scotiabank.com/global/en/global-site.html">
+    
+    
+    <link rel="canonical" href="https://www.scotiabank.com/global/en/global-site.html">
+    
+    
+        
+    
+
+    
+
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/content/dam/scotiabank/enterprise/images/logos/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/content/dam/scotiabank/enterprise/images/logos/favicon.ico">
+
+    
+    <script src="https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement_Module_ActivityMap.min.js" async=""></script><script src="https://assets.adobedtm.com/extensions/EPbde2f7ca14e540399dcc1f8208860b7b/AppMeasurement_Module_AudienceManagement.min.js" async=""></script><style>
+.html5 a#enter-scotiabank-canada {
+ border: solid 1px white !important;
+}
+</style></head><body class="campaign-page undefined header--fixed-mobile" data-b2t="">
+    
+
+    
+
+    
+
+    
+
+
+    
+    <script>
+        // This is required to initialize at least once per HTML page load
+        window.appEventData = window.appEventData || [];
+        window.addEventListener("load", function(e) {
+            let lastVisitedUrl = "";
+            if (BNS && BNS._data && BNS._data.user) {
+                lastVisitedUrl = BNS._data.user.lastVisited;
+            }
+            window.appEventData.push({
+                event: "datalayer.pageView",
+                // Get the site specific data and send it to analytics via window.appEventData.push
+                site: {
+                    "brand": "bns",
+                    "name": "Scotiabank",
+                    "platform": "aem",
+                    "platformType": "web",
+                    "language": "en",
+                    "country": "",
+                    "env": "prod",
+                    "release": "2.0.0"
+                },
+                // Get the page specific data and send it to analytics via window.appEventData.push
+                page: {
+                    "title": "Scotiabank Global Site",
+                    "url": "/content/scotiabank/global/en/global-site.html",
+                    "section": "Scotiabank Global Site",
+                    "category": "false",
+                    "subCategory1": "false",
+                    "subCategory2": "false",
+                    "isProduct": "false"
+                },
+                user: {
+                    "lastVisitedUrl":lastVisitedUrl
+                }
+            });
+        })
+    </script>
+
+
+<script>bazadebezolkohpepadr="203506417"</script><script type="text/javascript" src="https://www.scotiabank.com/akam/11/c21404e" defer=""></script>
+    
+
+    <a href="#main" class="bns--skip">Skip to content</a>
+
+    <!-- #wrapper begins: -->
+    <div id="wrapper">
+        
+
+
+
+
+
+<div>
+
+  <header class="bns--header header--minimal header--campaign" role="banner">
+    <div class="h--container container">
+        <a href="https://www.scotiabank.com/global/en/global-site.html" class="h--logo">
+            
+            <img src="/content/dam/scotiabank/images/logos/2019/scotiabank-logo-red-desktop-200px.svg" alt="Scotiabank">
+        </a>
+    </div>
+</header>
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.font.min.46d54a1e3a6b836ce53ce9426db6cf02.css" type="text/css">
+
+
+</div>
+        <main id="main" role="main">
+    
+
+
+
+
+    
+    
+    <div class="brand3-hero"><div class="NaN">
+  <div class="brand3 hero-container">
+    <div class="hero  lg-red dark-bg lg-dark-bg md-red dark-bg md-dark-bg sm-red dark-bg sm-dark-bg " style="height: 407px">
+      
+      
+      <div class="container imageDisabled lg-red dark-bg lg-dark-bg  md-red dark-bg md-dark-bg  sm-red dark-bg sm-dark-bg ">
+        <div class="contentContainer container imageDisabled lg-red dark-bg lg-dark-bg  md-red dark-bg md-dark-bg  sm-red dark-bg sm-dark-bg " style=" height: false%; ;">
+          <div class="container content--hero center-tablet center-desktop center-mobile" style="width:100%;">
+            <div>
+                
+
+
+
+
+
+            </div>
+            <div class="title bns--title">
+              <h1>Welcome to Scotiabank's global site
+
+</h1>
+            </div>
+            <div class="description">
+              <p>We offer personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets, through our global team of approximately 90,000 Scotiabankers.</p>
+
+            </div>
+            
+            
+            <div>
+              
+    
+  <a id="enter-scotiabank-canada" class="bns_button button-link primary-button pill-button grey-button  " href="/ca/en/personal.html" target="_self" data-gls-cookie-setter="true">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Enter Scotiabank Canada</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+            </div>
+            <div>
+                
+
+
+
+
+
+            </div>
+          </div>
+        </div>
+
+        <div style=" width:100%;   ;" class="contentContainerColor  lg-red dark-bg lg-dark-bg md-red dark-bg md-dark-bg sm-red dark-bg sm-dark-bg "></div>
+      </div>
+    </div>
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.brand3-hero.min.27073bca18b95012cdcd4854b1fb2b87.css" type="text/css">
+
+
+
+    
+    
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.brand3-hero.min.bdd3f2338e080305f507006e99c56ce8.js"></script>
+
+
+
+
+  </div>
+  
+  
+</div>
+</div>
+
+
+    
+    
+    <div class="section-container">
+
+
+<div class="bns--section  ">
+
+	
+	
+
+	
+	
+
+	<div class="section--container">
+
+		
+		
+
+		
+		<div class="section--content">
+			
+
+
+
+
+    
+    
+    <div class="heading">
+
+
+
+    
+	
+    
+    
+    
+    <div class="spacer sm"></div>
+    <div class="bns--title title--h2 text-left">
+
+        
+        
+            
+            <h2 class="text-none text-black">
+                Important Sites
+            </h2>
+        
+
+        
+        
+
+    </div>
+    
+
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer"></div></div>
+
+
+    
+    
+    <div class="_row">
+
+
+
+
+
+<div class="row ">
+  <div class="col-md-6 col-lg-3">
+    
+
+
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>A-D</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-1c5ad882-31a5-40cf-80aa-864221b4e91c" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Antigua &amp; Barbuda</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/aruba.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Aruba</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/australia.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Australia</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-ae2a86e1-ef96-4bbc-bfc0-7b9b138ce0ef" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Bahamas</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-52143360-1142-46ab-8bb8-3db3cfa70e31" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Barbados</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-df89fa99-4f6a-45f0-9a66-6fea87e3ada6" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Belize</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/bonaire.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Bonaire</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/brazil.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Brazil</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-eef92a22-1037-4353-a259-4aab33c5a36d" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Canada</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-dbd242a1-22d1-4a05-8346-b878c72b094b" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Cayman Islands</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-d8935104-1da1-4808-93e4-c831cb887ce3" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Chile</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabankcolpatria.com" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Colombia</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/people-s-republic-of-china.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">China, Mainland</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button rectangle-button red-button  " href="#modal-dcaebf0e-822a-40a4-b5cc-d632baa7f332" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Costa Rica</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-d730061e-38c8-4329-bcf4-93221df8a571" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Curaçao</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-ceaa1493-39d8-437a-b7bd-43fbd08ec8e8" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Dominican Republic</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+
+  </div>
+<div class="col-md-6 col-lg-3">
+    
+
+
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>E-H</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-0c650757-173b-4e41-820c-a2f4ebbde0ae" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Guyana</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/hong-kong.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Hong Kong SAR</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>I-L</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/india.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">India</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/ireland.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Ireland</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-6320688a-96dd-457d-959e-6da44c848332" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Jamaica</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button rectangle-button red-button  " href="https://www.scotiasecurities.jpn.scotiabank.com/" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Japan</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/republic-of-korea.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Republic of Korea</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>M-P</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/malaysia.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Malaysia</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-b6c24f8e-18a4-4120-b1ad-af8cfdf6dd77" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Mexico</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button rectangle-button red-button  " href="#modal-37382c08-f56b-414c-82b6-f65ecf1eebea" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Panama</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-dbaa797a-810f-417b-93d2-ad604195d9f7" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Peru</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+
+  </div>
+<div class="col-md-6 col-lg-3">
+    
+
+
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>Q-T</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/singapore.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Singapore</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/st-eustatius.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">St. Eustatius</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button rectangle-button red-button  " href="#modal-250a65da-0ea5-42e2-ab92-0b628ec00741" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Thailand</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-c46e56fb-b6b1-434f-8521-f1645afda6b5" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Trinidad &amp; Tobago</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+    
+    
+    
+    
+    
+  <button class="bns_button button-quick-modal text-only-button text-only-button red-button  " href="#modal-ec2d674e-e5f9-4f60-99bc-7bfbb9fd9d14" data-toggle="bns.dialog">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Turks &amp; Caicos</span>
+  
+  
+
+  </button>
+  
+
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>U-Z</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/united-states-of-america.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">U.S.A.</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/united-kingdom.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">United Kingdom</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/global/en/country/uruguay.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Uruguay</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+
+  </div>
+<div class="col-md-6 col-lg-3">
+    
+
+
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>Global Scotiabank Site</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/ca/en/about/our-company.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Scotiabank Corporate Site</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiabank.com/ca/en/about/investors-shareholders.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Investors</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+    
+    
+    <div class="cmp cmp-text">
+
+<p><b>Other Canadian Scotiabank Sites</b></p>
+
+
+    
+
+</div>
+
+
+    
+    
+    <div class="horizontal-rule">
+
+
+<div>
+	<hr class="my-3">
+</div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.gbm.scotiabank.com/en.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Global Banking &amp; Markets</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://startright.scotiabank.com/" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Newcomers to Canada</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.roynat.com/ca/en.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Roynat</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button rectangle-button red-button  " href="https://ads.scotiabank.com/" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Scotiabank Advisor Deposit Services</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button rectangle-button red-button  " href="https://www.scotiabank.com/healthcare/ca/en.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Scotiabank Healthcare+ Physician Banking Program</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiaitrade.com/en/direct-investing-and-online-trading.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Scotia iTRADE</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiafunds.com/scotiafunds/en.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">ScotiaFunds</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button text-only-button red-button  " href="https://www.scotiawealthmanagement.com/ca/en/home.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">Scotia Wealth Management</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer sm"></div></div>
+
+
+    
+    
+    <span class="_bns--button">
+
+
+	<span class="button  ">
+    
+    
+    
+  <a class="bns_button button-link text-only-button rectangle-button red-button  " href="https://www.scotiabank.com/women-initiative/ca/en.html" target="_self">
+    
+  <span class="sr-only"> </span>
+  
+  <span class="text ">The Scotiabank Women Initiative</span>
+  
+  
+
+  </a>
+
+    
+    
+    
+    
+    
+    
+
+  </span>
+</span>
+
+
+    
+    
+    <div class="spacer-wrapper"><div class="spacer lg"></div></div>
+
+
+
+  </div>
+
+</div>
+
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/scotiabank/clientlibs/bns.gridrow.min.cdf8f3b0428663af050854b518afc77b.css" type="text/css">
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.gridrow.min.d089a015ce2dbfc065c52781f59908c6.js"></script>
+
+
+</div>
+
+
+
+		</div>
+	</div>
+
+	
+	
+
+</div></div>
+
+
+
+<button class="bns--back-2-top"><img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjIuMyAxMi44IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyMi4zIDEyLjg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48c3R5bGUgdHlwZT0idGV4dC9jc3MiPi5zdDB7ZmlsbDpub25lO3N0cm9rZTojRkZGRkZGO3N0cm9rZS13aWR0aDoxLjU7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO308L3N0eWxlPjxnIGlkPSJTeW1ib2xzIj48ZyBpZD0iRm9yd2FyZEljb24iPjxwb2x5bGluZSBpZD0iU3Ryb2tlLTM3IiBjbGFzcz0ic3QwIiBwb2ludHM9IjAuOCwxMi4xIDExLjEsMC44IDIxLjYsMTIuMSAiLz48L2c+PC9nPjwvc3ZnPg==" alt="Back to top" class="back-top"></button></main>
+        <div>
+
+<footer id="footer" class="bns--footer footer--campaign" role="contentinfo">
+	<div class="f--bottom">
+		<div class="container">
+			<div class="f--links">
+				<a href="https://www.scotiabank.com/global/fr/site-mondial.html?redirect=false">
+					Français
+				</a>
+<a href="https://www.scotiabank.com/global/es/sitio-global.html?redirect=false">
+					Español
+				</a>
+<a href="/global/en/global-site/fine-print.html#Legal" target="_blank">
+					Legal
+				</a>
+<a href="/global/en/global-site/fine-print.html#Privacy" target="_blank">
+					Privacy
+				</a>
+<a href="/global/en/global-site/fine-print.html#Security" target="_blank">
+					Security
+				</a>
+
+			</div>
+			<div class="f--copyright">
+				© Scotiabank. All Rights Reserved.
+			</div>
+		</div>
+	</div>
+</footer></div>
+    </div><!-- / #wrapper ends; -->
+
+    <!-- BNS Scripts -->
+
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/react.production.min.61699b70cf57abe63fdf5f4007d36ec1.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/react-dom.production.min.23bfe7e99565ee8f34afd63c06f4c24b.js"></script>
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/jquery.min.0df0e32e18ee58de56f4070a7846a5de.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/bootstrap.min.ea9403653a57e24aa3c39b71d2ea0ccb.js"></script><script>
+document.addEventListener(adobe.target.event.REQUEST_SUCCEEDED, function(e) {
+ window.ttMETA = typeof(window.ttMETA) != "undefined" ? window.ttMETA : [];
+ var tokens = e.detail.responseTokens;
+ if (isEmpty(tokens)) {
+ return;
+ }
+_satellite.logger.log("ttMeta");
+  
+  var uniqueTokens = distinct(tokens);
+ uniqueTokens.forEach(function(token) {
+ window.ttMETA.push({
+ 'CampaignName': token["activity.name"],
+ 'CampaignId': token["activity.id"],
+ 'RecipeName': token["experience.name"],
+ 'RecipeId': token["experience.id"],
+ 'OfferId': token["option.id"],
+ 'OfferName': token["option.name"]
+ });
+ });
+});
+function isEmpty(val) {
+ return (val === undefined || val == null || val.length <= 0) ? true : false;
+}
+function key(obj) {
+ return Object.keys(obj)
+ .map(function(k) {
+ return k + "" + obj[k];
+ })
+ .join("");
+}
+function distinct(arr) {
+ var result = arr.reduce(function(acc, e) {
+ acc[key(e)] = e;
+ return acc;
+ }, {});
+ return Object.keys(result)
+ .map(function(k) {
+ return result[k];
+ });
+}
+</script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/solr.min.d41d8cd98f00b204e9800998ecf8427e.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.vendor/misc.min.dc960f08e8dd74fd1923587032c797ba.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.bundle.min.ff2ab9b607388a44114da818f2a2856a.js"></script><iframe sandbox="allow-scripts allow-same-origin" title="Adobe ID Syncing iFrame" id="destination_publishing_iframe_scotiabank_0" name="destination_publishing_iframe_scotiabank_0_name" src="https://scotiabank.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.scotiabank.com" style="display: none; width: 0px; height: 0px;" class="aamIframeLoaded"></iframe>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.back-to-top-btn.min.0be43d5e7808958097122bd019fda6fe.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.template.min.f8538272c69a547c7efc3361f9de28ce.js"></script>
+
+
+
+
+<!-- Init Cloud Services -->
+<script></script>
+
+
+<noscript><img src="https://www.scotiabank.com/akam/11/pixel_c21404e?a=dD1iYWU3MjczZjI4ZDQ1YWUyYzQ0MTI4YjFmNTNmZTQ3ZjM4MDViM2ExJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>
+
+    
+    
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/scotiabank/clientlibs/bns.gls-cookies.min.3852654293ea4812223b1b17198af086.js"></script>
+
+
+
+
+    
+<script>_satellite["_runScript1"](function(event, target, Promise) {
+setTimeout(function(){},1000);
+
+});</script><div id="modal-1c5ad882-31a5-40cf-80aa-864221b4e91c" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Antigua &amp; Barbuda has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://ag.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/business-banking.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://ag.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-ae2a86e1-ef96-4bbc-bfc0-7b9b138ce0ef" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Bahamas has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://bs.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://bs.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-52143360-1142-46ab-8bb8-3db3cfa70e31" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Barbados has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://bb.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/business-banking.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://bb.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-df89fa99-4f6a-45f0-9a66-6fea87e3ada6" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Belize has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://bz.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://bz.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-eef92a22-1037-4353-a259-4aab33c5a36d" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Canada has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiaitrade.com/en/direct-investing-and-online-trading.html">Online Brokerage</a></p>
+<p style="text-align: center;"><a href="https://www.scotiafunds.com/scotiafunds/en.html">ScotiaFunds</a></p>
+<p style="text-align: center;"><a href="https://www.dynamic.ca/eng.html">Dynamic Funds</a></p>
+<p style="text-align: center;"><a href="https://www.scotiainstitutional.com/en/scotia-institutional-asset-management.html">Scotia Institutional Asset Management</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/about/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com/ca/en/about/investors-shareholders.html">Investor Relations</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-dbd242a1-22d1-4a05-8346-b878c72b094b" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Cayman Islands has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://ky.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/personal/investing/scotiabank-asset-management-service.html">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://ky.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-d8935104-1da1-4808-93e4-c831cb887ce3" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Chile has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabankchile.cl/">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/cuenta-corriente">Bank Account</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/Personas/credito-de-consumo">Personal loans</a></p>
+<p style="text-align: center;">&nbsp;<a href="https://www.scotiabankchile.cl/Personas/seguro-automotriz">Car&nbsp;Insurance</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/Personas/Inversiones/como-invertir">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/Grandes-Empresas/empresas">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/pymes/cuenta-corriente-pyme/plan-pyme">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankchile.cl/productos-financieros">Bank Products</a><br>
+</p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-dcaebf0e-822a-40a4-b5cc-d632baa7f332" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Costa Rica has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabankcr.com/Personas/Default.aspx">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankcr.com/subsidiarias/Scotia-Fondos/scotia-fondos/nuestros-fondos.aspx" target="_blank">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankcr.com/Corporativa/Default.aspx">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankcr.com/Pymes/Default.aspx">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankcr.com/Acerca/Quienes-somos/Default.aspx">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabankcr.com/Acerca/Scotiabank-en-la-comunidad/Default.aspx">Corporate Responsibility</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-d730061e-38c8-4329-bcf4-93221df8a571" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Curaçao has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabank.com/global/en/country/curacao.html">General Information</a></p>
+<p style="text-align: center;"><a href="https://www.mcb-bank.com/scotia-mutual-funds" target="Target">Mutual Funds</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-ceaa1493-39d8-437a-b7bd-43fbd08ec8e8" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center ">See what Dominican Republic has to offer</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://do.scotiabank.com/banca-personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiacrecer.com.do/">Pensions</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/banca-personal/seguros.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/banca-corporativa.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/banca-de-negocios.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.solucionesscotiabank.com.do/">Micro-Finance</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/acerca-de-scotiabank/quienes-somos.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/acerca-de-scotiabank/scotiabank-en-la-comunidad/responsabilidad-social-corporativa.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://do.scotiabank.com/acerca-de-scotiabank/comunicados-de-prensa.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-0c650757-173b-4e41-820c-a2f4ebbde0ae" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what&nbsp;Guyana has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://gy.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/about-scotiabank/inside-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://gy.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-6320688a-96dd-457d-959e-6da44c848332" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what&nbsp;Jamaica has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://jm.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/scotia-investments.html">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/sjlic.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/corporate-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/about-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/about-scotiabank/giving-back/our-commitment-to-corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://jm.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-b6c24f8e-18a4-4120-b1ad-af8cfdf6dd77" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what&nbsp;Mexico has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabank.com.mx">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiawealthmanagement.com/mx/es/pagina-principal.html">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/fondos-de-inversion/default.aspx">Mutual Funds</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/personas/seguros/default.aspx">Insurance</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/empresas-y-gobierno/default.aspx">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/pymes/default.aspx">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/acerca-de-scotiabank/quienes-somos/default.aspx">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/acerca-de-scotiabank/relacion-con-inversionistas/default.aspx">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/acerca-de-scotiabank/relacion-con-inversionistas/default.aspx">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.mx/acerca-de-scotiabank/comunicados-al-publico-en-general/default.aspx">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-37382c08-f56b-414c-82b6-f65ecf1eebea" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Panama has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://pa.scotiabank.com/en/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://pa.scotiabank.com/en/personal/investments.html">Wealth Management</a></p>
+<p style="text-align: center;"><a href="https://pa.scotiabank.com/en/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://pa.scotiabank.com/en/about-scotiabank.html" target="_blank">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://pa.scotiabank.com/en/about-scotiabank/giving-back/corporate-social-responsibility.html" target="_blank">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://pa.scotiabank.com/en/about-scotiabank/media-center.html" target="_blank">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-dbaa797a-810f-417b-93d2-ad604195d9f7" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what Peru has to offer</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Personas/Default" target="Target">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/inversiones/bolsa/Nosotros/productos" target="Target">Brokerage&nbsp;</a></p>
+<p style="text-align: center;"><a href="https://www.profuturo.com.pe/Personas">Pensions</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/inversiones/fondos" target="Target">Mutual Funds&nbsp;</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Personas/Seguros/default" target="Target">Insurance</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/pyme-negocios/default">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Empresas/default" target="Target">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://www.crediscotia.com.pe/">Micro-Finance</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Acerca-de/Scotiabank-Peru/default" target="Target">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Acerca-de/Scotiabank-Peru/Mas-informacion/informacion-al-inversionista" target="Target">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://www.scotiabank.com.pe/Acerca-de/Suscripciones/newsletter-subscription" target="Target">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-250a65da-0ea5-42e2-ab92-0b628ec00741" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what&nbsp;Thailand has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <div style="text-align: center;"><a href="https://www.scotiabank.com/global/en/country/thailand.html">General Information</a></div>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-c46e56fb-b6b1-434f-8521-f1645afda6b5" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See&nbsp; what&nbsp;Trinidad &amp; Tobago has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://tt.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/business-banking.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/about-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://tt.scotiabank.com/about-scotiabank/media-center.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><div id="modal-ec2d674e-e5f9-4f60-99bc-7bfbb9fd9d14" class="bns--dialog dialog--modal dialog--scale" data-header-align="center" role="dialog" aria-hidden="true" tabindex="-1">
+                <div class="dialog--content " style="">
+                    <button tabindex="0" aria-label="Close" class="bns--x" data-dismiss="bns.dialog"></button>
+                    <div class="dialog--header header--align-center "><div style="text-align: center;">See what&nbsp;Turks &amp; Caicos has to offer<br>
+</div>
+</div>
+                    
+      
+      <div class="dialog--body">
+          <p style="text-align: center;"><a href="https://tc.scotiabank.com/personal.html">Personal Banking</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/personal/insurance.html">Insurance</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/corporate-and-commercial.html">Mid-Large Size Business Banking</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/small-business.html">Small Business Banking</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/about-scotiabank.html">Who We Are</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/about-scotiabank/giving-back/corporate-social-responsibility.html">Corporate Responsibility</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/about-scotiabank/investor-relations.html">Investor Relations</a></p>
+<p style="text-align: center;"><a href="https://tc.scotiabank.com/about-scotiabank/media-centre.html">Media Centre</a></p>
+
+      </div>
+  
+                    
+                </div>
+            </div><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-74658059-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+try{var pgn = _satellite.getVar("datalayer_pagetitle"); }catch(e){}
+try{var ss = _satellite.getVar("datalayer_channel"); }catch(e){}
+try{var ssub = s.prop14; }catch(e){}
+try{var cmpg = _satellite.getVar("cid"); }catch(e){}
+try{var visID = s.c_r('s_vi').slice(7,40); }catch(e){}
+try{var guid = _satellite.getVar("GUID");  }catch(e){}
+try{var langu = _satellite.getVar("datalayer_language"); }catch(e){}
+try{if(/search/.test(locationHref)) {var search = $('#search-summary .norm strong').text().toLowerCase(); } }catch(e){}
+
+try {
+	if(s.products) {var pageType = "Product Details"}
+} catch(e){}
+
+var siteSection = ss;
+
+switch (ss) {
+  case "Chequing & Savings" :
+    siteSection = "Chequing & Savings";  break;
+  case "Credit Cards" :
+    siteSection = "Credit Cards";  break;
+  case "Mortgage Centre" :
+    siteSection = "Mortgage";  break;
+  case "Loans & Lines" :
+    siteSection = "Loans & Lines";  break;
+  case "Investment Centre" :
+    siteSection = "Investments";  break;
+  case "Insurance" :
+    siteSection = "Insurance";  break;
+  case "Insurance" :
+    siteSection = "Insurance";  break;
+  case "Programs & Offers" :
+    siteSection = "Programs & Offers";  break;
+  case "Rates" :
+    siteSection = "Rates";
+}  
+  
+  gtag('config', _satellite.getVar('GoogleAnalyticsID'), {
+    'page_path': _satellite.getVar("pii_scrubbed_url"),
+    'referrer': _satellite.getVar("pii_scrubbed_referrer"),
+  'dimension1': pgn,
+'dimension2': ss,
+'dimension3': ssub,
+'dimension4': cmpg,
+'dimension5': guid,
+'dimension6': visID,
+'dimension8': siteSection,
+'dimension9': langu,
+'dimension10': pageType,
+'dimension11': search,
+   'dimension104': _satellite.getVar("gid2"),
+    'userId': _satellite.getVar("GUID")
+  }
+       )
+ gtag('config', 'DC-9051783');
+</script></body></html>
